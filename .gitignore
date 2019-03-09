@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+pred*/
+masks_machine/
+img_gross.png
+*.ipynb
+__pycache__
